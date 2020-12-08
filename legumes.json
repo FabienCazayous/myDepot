@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "Legume": "Brocoli"
+    "Legume": "Brocolis"
   },
   {
     "id": 2,
@@ -9,10 +9,10 @@
   },
   {
     "id": 3,
-    "Legume": "Poivron"
+    "Legume": "Poivrons"
   },
   {
     "id": 4,
-    "Legume": "Courgette"
+    "Legume": "Courgettes"
   },
 ]
